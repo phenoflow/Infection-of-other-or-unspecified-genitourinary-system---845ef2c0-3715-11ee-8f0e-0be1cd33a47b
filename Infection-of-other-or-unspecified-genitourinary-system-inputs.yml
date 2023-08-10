@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system-tuberculosis---secondary.py
+inputModule3:
+  class: File
+  path: python/urogenital-infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule4:
+  class: File
+  path: python/periurethral-infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule5:
+  class: File
+  path: python/gonococcal-infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule6:
+  class: File
+  path: python/chlamydial-infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule7:
+  class: File
+  path: python/chancroid-infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule8:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system---secondary.py
+inputModule9:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system-vulva---secondary.py
+inputModule10:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system-candidiasis---secondary.py
+inputModule11:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system-abscess---secondary.py
+inputModule12:
+  class: File
+  path: python/infection-of-other-or-unspecified-genitourinary-system-classified---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
